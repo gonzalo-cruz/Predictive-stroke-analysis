@@ -11,7 +11,7 @@ Stroke is a leading cause of mortality worldwide. Early identification of high-r
 
 The goal was not just to predict, but to **compare architectural approaches**: interpreting the transparency of Logistic Regression against the non-linear capabilities of a Multi-Layer Perceptron (MLP).
 
-[**📄 View Full Technical Report (PDF)**](reports/technical_report.pdf)
+[**📄 View Full Technical Report (PDF)**](reports/technical-report.pdf)
 
 ## Key Features & Methodology
 This analysis follows a rigorous Data Science lifecycle:

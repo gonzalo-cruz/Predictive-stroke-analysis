@@ -39,7 +39,7 @@ This analysis follows a rigorous Data Science lifecycle:
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/yourusername/predictive-stroke-analysis.git](https://github.com/yourusername/predictive-stroke-analysis.git)
+    git clone https://github.com/yourusername/predictive-stroke-analysis.git
     ```
 2.  **Install dependencies:**
     ```bash

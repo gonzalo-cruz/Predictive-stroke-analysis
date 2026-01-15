@@ -70,4 +70,3 @@ The primary metric for evaluation was **Recall (Sensitivity)**. In a clinical tr
 
 ## 👤 Author
 **Gonzalo Cruz Gómez**
-*Group GI_02*
